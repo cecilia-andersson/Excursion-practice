@@ -1,4 +1,42 @@
-p {
-	color: blue;
-	font-size: 50px;
+* {
+	background-color:black;
+	text-align:center;
 }
+
+body {
+  font-family: "Verdana";
+  }
+
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  justify-content: center;
+   }
+p #link {
+  color: #00FFBF;
+  font-size: 16px;
+  justify-content: center;
+  }
+
+h2 {
+  	color: white;
+	font-weight: 300;
+	font-size: 42px;
+  }
+
+h3 {
+  	font-family:"Verdana";
+	color: gray;
+	font-size: 21px;
+  }
+  
+#copyright {
+  	text-align:right !important;
+	justify-content:right !important;
+  }
+ 
+footer {
+  	margin-top: 10px;
+  }
+ 
