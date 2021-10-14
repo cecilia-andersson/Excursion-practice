@@ -2,7 +2,11 @@
 ## Motivation: 
 This project is taken from the Codecademy "Build a Website using HTML, CSS, and GitHub Pages Skill path."
 
-## Build Status: *in progress*
+## Build Status: *finished, with comments*
+List of items to be checked back on in the future:
+[] look into "merge" commmit; don't fully understand
+[] troubleshoot phone icon loading issue
+[] troubleshoot copyright line alignment and symbol
 
 ## Project Framework: HTML/CSS
 
