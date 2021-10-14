@@ -1,3 +1,8 @@
+* {
+	background-color:black;
+	text-align:center;
+}
+
 body {
   font-family: "Veranda";
   }
@@ -13,6 +18,17 @@ p .link {
   font-size: 16px;
   justify-content: center;
   }
- 
+
+h2 {
+  	color: white;
+	font-weight: 300;
+	font-size: 42px;
+  }
+
+h3 {
+  	font-family:"Veranda";
+	color: gray;
+	font-size: 21px;
+  }
  
   
